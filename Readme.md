@@ -1,5 +1,5 @@
 ####tmgr - A lightweight cli based time management tool
-FOO|BAR
+ Usage | Description
 ----------------------------|------------------------
 ./tmgr.py start `<PROJECT>`	| to start timer for `<PROJECT>`
 ./tmgr.py stop `<PROJECT>`	|	to start timer for `<PROJECT>`
